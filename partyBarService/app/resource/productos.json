@@ -1,0 +1,310 @@
+[
+    {
+        "id": 1,
+        "nombre": "Summer Vibes",
+        "cocteles_paquete": [
+            { 
+                "nombre_coctel": "Cuba Libre",
+                "ingredientes": ["Ron blanco","Refresco de cola","Limón"]
+            },
+            {
+                "nombre_coctel": "Piña Colada",
+                "ingredientes": ["Ron blanco","Crema de coco","Jugo de ananá"]
+            },
+            {
+                "nombre_coctel": "Sex on the Beach",
+                "ingredientes": ["Vodka","Licor de melocotón","Jugo de naranja","Jugo de arándano"]
+            },
+            {
+                "nombre_coctel": "Margarita de Mango",
+                "ingredientes": ["Tequila","Licor de mango", "Jugo de lima", "Almíbar","Mango fresco"]
+            }
+        ],
+        "precio": 660000,
+        "cantidad_invitados": 20,
+        "bebida_por_persona": 4,
+        "tema_barra": "Beach-bar",
+        "short_descripcion":"Vive una noche cargada de emoción con vibras veraniegas inspiradas en el Caribe.",
+        "descripcion": "Déjate llevar por la brisa tropical y las emociones del Caribe con este servicio, en el que las vibras veraniegas serán las protagonistas, con una temática inspirada en sus playas y sabores, serás parte de una noche cargada de emoción.",
+        "imagen_bar": "../assets/img/caribbean-bar.jpg",
+        "imagen_cocteles": "../assets/img/caribean-cocktail.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Tiki-Luau ",
+        "cocteles_paquete": [
+            {
+                "nombre_coctel": "Mai Tai",
+                "ingredientes": ["Ron blanco", "Licor de naranja", "Licor de almendra", "Jugo de limón", "Almíbar", "Jugo de ananá"]
+            },
+            {
+                "nombre_coctel": "Zombie",
+                "ingredientes": ["Ron blanco", "Ron oscuro", "Licor de melocotón", "Jugo de limón", "Jugo de ananá", "Granadina", "Gaseosa de lima-limón"]
+            },
+            {
+                "nombre_coctel": "Painkiller",
+                "ingredientes": ["Ron oscuro", "Crema de coco", "Jugo de ananá", "Jugo de naranja", "Almíbar"]
+            },
+            {
+                "nombre_coctel": "Tiki Swizzle",
+                "ingredientes": ["Ron blanco", "Jugo de limón", "Almíbar", "Angostura"]
+            }
+        ],
+        "precio": 850000,
+        "cantidad_invitados": 35,
+        "bebida_por_persona": 4,
+        "tema_barra": "Tiki-bar",
+        "short_descripcion":"Sabores exóticos y vibrantes te transportan a Hawaii.",
+        "descripcion": "Para los fanáticos de la cultura polinesia, este servicio se compone de una selección especial de bebidas inspiradas en las islas del pácifico, disfruta de sabores exóticos y vibrantes que te hagan sentir en Hawaii. ",
+        "imagen_bar": "../assets/img/tiki-bar.jpg",
+        "imagen_cocteles": "../assets/img/tiki-cocktail.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Royal Dream",
+        "cocteles_paquete": [
+            {
+                "nombre_coctel": "Daiquiri",
+                "ingredientes": ["Ron blanco", "Jugo de limón", "Almíbar"]
+            },
+            {
+                "nombre_coctel": "Old Fashioned",
+                "ingredientes": ["Bourbon", "Azúcar", "Angostura", "Gaseosa de limón-lima"]
+            },
+            {
+                "nombre_coctel": "French 75",
+                "ingredientes": ["Ginebra", "Jugo de limón", "Almíbar", "Champagne Moët & Chandon"]
+            },
+            {
+                "nombre_coctel": "Champagne",
+                "ingredientes": ["Champagne Moët & Chandon"]
+            }
+        ],
+        "precio": 400000,
+        "cantidad_invitados": 15,
+        "bebida_por_persona": 3,
+        "tema_barra": "Royal-bar",
+        "short_descripcion":"Elegancia y lujo se fusionan en una experiencia majestuosa y refinada.",
+        "descripcion": "Adéntrate en el mundo donde la elegancia y el refinamiento se fusionan para crear una experiencia majestuosa. Este servicio te invita a sumergirte en un ambiente de lujo y sofisticación, con una selección exclusiva de bebidas que capturan la esencia de la realeza. Disfruta de sabores exquisitos que te transportarán a un sueño real, donde cada sorbo es un deleite para los sentidos.",
+        "imagen_bar": "../assets/img/royal-bar.jpg",
+        "imagen_cocteles": "../assets/img/royal-cocktail.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Neon Disco",
+        "cocteles_paquete": [
+            {
+                "nombre_coctel": "Cosmopolitan",
+                "ingredientes": ["Vodka", "Triple sec", "Jugo de arándano", "Jugo de limón"]
+            },
+            {
+                "nombre_coctel": "Blue Lagoon",
+                "ingredientes": ["Vodka", "Curacao azul", "Limonada", "Limón"]
+            },
+            {
+                "nombre_coctel": "Margarita",
+                "ingredientes": ["Tequila", "Triple sec", "Jugo de limón", "Almíbar"]
+            },
+            {
+                "nombre_coctel": "Purple Haze",
+                "ingredientes": ["Vodka", "Licor de mora", "Gaseosa de limón-lima"]
+            }
+        ],
+        "precio": 730000,
+        "cantidad_invitados": 25,
+        "bebida_por_persona": 4,
+        "tema_barra": "Neon-bar",
+        "short_descripcion":"Sumérgete en la época dorada de la música disco con cocteles llenos de energía.",
+        "descripcion": "En este servicio la atmósfera eléctrica y llena de energía te invita a disfrutar de una noche brillante y llena de color. Sumérgete en un mundo de luces parpadeantes, ritmos frenéticos y sabores audaces que te transportarán a la época dorada de la música disco. Nuestros cocteles, creados con destreza y pasión, capturan la esencia de la fiesta y la diversión, brindándote una experiencia única en cada sorbo. ",
+        "imagen_bar": "../assets/img/neon-bar.jpg",
+        "imagen_cocteles": "../assets/img/neon-cocktail.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Alice in Wonderland",
+        "cocteles_paquete": [
+            {
+                "nombre_coctel": "Mint Julep",
+                "ingredientes": ["Bourbon", "Menta fresca", "Azúcar", "Agua fría"]
+            },
+            {
+                "nombre_coctel": "Gin Tonic Botánico",
+                "ingredientes": ["Ginebra", "Tónica", "Rodaja de limón", "Hojas de albahaca"]
+            },
+            {
+                "nombre_coctel": "Moscow Mule",
+                "ingredientes": ["Vodka", "Jengibre fresco", "Lima", "Cerveza de jengibre", "Hojas de menta"]
+            },
+            {
+                "nombre_coctel": "Mimosa Floral",
+                "ingredientes": ["Champagne", "Jugo de naranja", "Licor de flor de saúco"]
+            }
+        ],
+        "precio": 490000,
+        "cantidad_invitados": 20,
+        "bebida_por_persona": 4,
+        "tema_barra": "Alice-bar",
+        "short_descripcion":"Descubre un mundo de fantasía y enigmas en cada brindis de nuestro servicio.",
+        "descripcion": "Un mundo de maravillas y sorpresas te espera. Déjate llevar por la magia de este cuento encantado mientras disfrutas de una experiencia única llena de color, diversión y enigmas. Nuestros cocteles te transportarán a un viaje de fantasía con sabores cuidadosamente seleccionados para que tu fiesta sea el lugar donde lo imposible se vuelve posible en cada brindis.",
+        "imagen_bar": "../assets/img/alice-bar.jpg",
+        "imagen_cocteles": "../assets/img/alice-cocktail.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "El Padrino",
+        "cocteles_paquete": [
+            {
+                "nombre_coctel": "Martini",
+                "ingredientes": ["Ginebra", "Vermut seco", "Aceituna"]
+            },
+            {
+                "nombre_coctel": "Old Fashioned",
+                "ingredientes": ["Bourbon", "Azúcar", "Angostura", "Gaseosa de limón-lima"]
+            },
+            {
+                "nombre_coctel": "Negroni",
+                "ingredientes": ["Ginebra", "Vermut rojo", "Campari"]
+            },
+            {
+                "nombre_coctel": "Manhattan",
+                "ingredientes": ["Bourbon", "Vermut dulce"," Angostura", "Cereza"]
+            }
+        ],
+        "precio": 880000,
+        "cantidad_invitados": 35,
+        "bebida_por_persona": 4,
+        "tema_barra": "Fancy-bar",
+        "short_descripcion":"Sofisticación y estilo del Padrino se fusionan en una experiencia única.",
+        "descripcion": "Déjate seducir por una atmósfera de intrigas y pasiones, donde cada detalle refleja el encanto y la sofisticación de una era dorada. Nuestro servicio te invita a disfrutar de una experiencia única, donde el arte de la mixología se fusiona con el estilo y la clase del Padrino.",
+        "imagen_bar": "../assets/img/fancy-bar.jpg",
+        "imagen_cocteles": "../assets/img/fancy-cocktail.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Wedding day",
+        "cocteles_paquete": [
+            {
+                "nombre_coctel": "White Russian",
+                "ingredientes": ["Vodka", "Licor de café", "Crema"]
+            },
+            {
+                "nombre_coctel": "Sidecar",
+                "ingredientes": ["Brandy", "Triple sec", "Jugo de limón"]
+            },
+            {
+                "nombre_coctel": "Bellini",
+                "ingredientes": ["Prosecco", "Puré de durazno"]
+            },
+            {
+                "nombre_coctel": "Sazerac",
+                "ingredientes": ["Whisky de centeno", "Azúcar", "Peychaud's Bitters", "Absenta"]
+            },
+            {
+                "nombre_coctel": "White Lady",
+                "ingredientes": ["Ginebra", "Triple sec", "Jugo de limón", "Clara de huevo"]
+            },
+            {
+                "nombre_coctel": "Daiquiri de durazno",
+                "ingredientes": ["Ron blanco", "Jugo de durazno", "Almíbar"]
+            }
+        ],
+        "precio": 1600000,
+        "cantidad_invitados": 60,
+        "bebida_por_persona": 6,
+        "tema_barra": "Wedding-bar",
+        "short_descripcion":"Celebra el amor con una experiencia romántica y memorable en cada bebida.",
+        "descripcion": "Celebra el amor y la alegría con nuestro exclusivo servicio para Bodas. Adentrate en una atmósfera de romanticismo y felicidad, donde cada detalle está cuidadosamente diseñado para hacer de tu día especial un momento inolvidable. Nuestro servicio te ofrece una experiencia única, donde los sabores del amor se harán presentes en cada bebida.",
+        "imagen_bar": "../assets/img/wedding-bar.jpg",
+        "imagen_cocteles": "../assets/img/wedding-cocktail.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Spicy Devil",
+        "cocteles_paquete": [
+            {
+                "nombre_coctel": "Bloody Mary",
+                "ingredientes": ["Vodka", "Jugo de tomate", "Jugo de limón", "Salsa Worcestershire","Salsa picante", "Sal y pimienta"]
+            },
+            {
+                "nombre_coctel": "Mule Diablo",
+                "ingredientes": ["Tequila", "Jugo de lima", "Ginger beer", "Chile jalapeño"]
+            },
+            {
+                "nombre_coctel": "Spicy Paloma",
+                "ingredientes": ["Tequila", "Jugo de pomelo", "Jugo de limón", "Jarabe de agave", "Chile serrano"]
+            },
+            {
+                "nombre_coctel": "Mojito de fresa",
+                "ingredientes": ["Ron blanco", "Menta fresca", "Jugo de limón", "Fresas", "Azúcar", "Soda"]
+            }
+        ],
+        "precio": 460000,
+        "cantidad_invitados": 20,
+        "bebida_por_persona": 4,
+        "tema_barra": "Devil-bar",
+        "short_descripcion":"Explora un viaje de terror y picante que despierta tus sentidos.",
+        "descripcion": "Prepárate para un viaje único que combina el terror y el picante. Nuestro servicio te ofrece ese ambiente misterioso donde cada trago despierta tus sentidos con un toque de emoción y un toque de fuego. Con una selección única de bebidas que desafían tus límites y te invitan a explorar nuevos horizontes de sabor y emoción.",
+        "imagen_bar": "../assets/img/devil-bar.jpg",
+        "imagen_cocteles": "../assets/img/devil-cocktail.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Year 3000",
+        "cocteles_paquete": [
+            {
+                "nombre_coctel": "Gin Fizz",
+                "ingredientes": ["Ginebra", "Soda", "Azúcar", "Jugo de limón"]
+            },
+            {
+                "nombre_coctel": "Spritz de Hibisco",
+                "ingredientes": ["Prosecco", "Aperol", "Soda", "Jarabe de hibisco"]
+            },
+            {
+                "nombre_coctel": "Caipiroska de Maracuyá",
+                "ingredientes": ["Vodka", "Maracuyá", "Azúcar", "Limón"]
+            },
+            {
+                "nombre_coctel": "Electric frozen Lemonade",
+                "ingredientes": ["Vodka", "Limonada", "Jarabe de frambuesa", "Curaçao azul", "Hielo"]
+            }
+        ],
+        "precio": 730000,
+        "cantidad_invitados": 25,
+        "bebida_por_persona": 5,
+        "tema_barra": "future-bar",
+        "short_descripcion":"Sofisticación futurista con bebidas destacadas por su estética y sabor.",
+        "descripcion": "Lleno de bebidas destacadas no solo por su sabor sino por su estética, este servicio te ofrece la sofisticación que viene con el avance tecnológico y el futuro, lleno de material cromado prepárate para sentirte en el año 3000 y vivir una experiencia fuera de esta época.",
+        "imagen_bar": "../assets/img/future-bar.jpg",
+        "imagen_cocteles": "../assets/img/future-cocktail.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Kids Include",
+        "cocteles_paquete": [
+            {
+                "nombre_coctel": "Tropical Paradise (Mocktail)",
+                "ingredientes": ["Jugo de piña", "Jugo de naranja", "Coco rallado", "Hielo"]
+            },
+            {
+                "nombre_coctel": "Berry Blast (Mocktail)",
+                "ingredientes": ["Jugo de arándano", "Jugo de limón", "Jarabe de azúcar", "Frutas mixtas"]
+            },
+            {
+                "nombre_coctel": "Minty Watermelon (Mocktail)",
+                "ingredientes": ["Sandía", "Menta fresca", "Jugo de limón", "Azúcar", "Hielo"]
+            },
+            {
+                "nombre_coctel": "Sunshine Spritzer (Mocktail)",
+                "ingredientes": ["Soda", "Limón", "Naranja", "Rodaja de piña"]
+            }
+        ],
+        "precio": 280000,
+        "cantidad_invitados": 15,
+        "bebida_por_persona": 3,
+        "tema_barra": "candy-bar",
+        "short_descripcion":"Diversión segura con mocktails frutales para los más pequeños.",
+        "descripcion": "¿Quieres que tus niños la pasen bien y disfruten de bebidas adaptadas para ellos? Pues este es tu servicio ideal, los mocktail (cócteles sin alcohol) que ofrecemos son seleccionados cuidadosamente combinando sabores frutales que deleitaran a los invitados más pequeños. Diversión y seguridad garantizada para tu evento.",
+        "imagen_bar": "../assets/img/mock-bar.jpg",
+        "imagen_cocteles": "../assets/img/mocktail.jpg"
+    }
+    ]
